@@ -15,8 +15,6 @@
 
 ## What's this?
 
-A Project for Juice by @felixgao-0, @aramshiva, and @taciturnaxolotl in no particular order lol
-
 Learn more about Juice here: https://github.com/hackclub/juice
 
 <p align="center">
