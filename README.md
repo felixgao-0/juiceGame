@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="https://github.com/hackclub/juice/blob/main/site/public/juicebigimage.png?raw=true" width="350" alt="juice gif"/><br/>
+    <img src="https://github.com/hackclub/juice/blob/main/site/public/juicebigimage.png?raw=true" width="250" alt="juice gif"/><br/>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
     <span>JuiceGame</span>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/felixgao-0/juiceGame/main/.github/images/background.gif" width="450" alt="juice gif"/>
+    <img src="https://raw.githubusercontent.com/felixgao-0/juiceGame/main/.github/images/background.gif" width="864" alt="juice gif"/>
 </p>
 
 <p align="center">
