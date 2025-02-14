@@ -1,12 +1,12 @@
 <h3 align="center">
-    <img src="https://github.com/hackclub/juice/blob/main/site/public/juicebigimage.png?raw=true" width="250" alt="juice gif"/><br/>
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
-    <span>MeiHuā</span>
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
+	<img src="https://github.com/hackclub/juice/blob/main/site/public/juicebigimage.png?raw=true" width="250" alt="juice gif"/><br/>
+	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
+	<span>MeiHuā</span>
+	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-    <i>A game, desc coming soon</i>
+	<i>A game, desc coming soon</i>
 </p>
 
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/felixgao-0/juiceGame/main/.github/images/background.gif" width="864" alt="juice gif"/>
+	<img src="https://raw.githubusercontent.com/felixgao-0/juiceGame/main/.github/images/background.gif" width="864" alt="juice gif"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Learn more about Juice here: https://github.com/hackclub/juice
 </p>
 
 <p align="center">
-    &copy 2025-present <a href="https://github.com/felixgao-0">@felixgao-0</a>, <a href="https://github.com/aramshiva">@aramshiva</a>, <a href="https://github.com/N1k0s1">@N1k0s1</a>, and <a href="https://github.com/taciturnaxolotl">@taciturnaxolotl</a> in no particular order lol
+	&copy 2025-present <a href="https://github.com/felixgao-0">@felixgao-0</a>, <a href="https://github.com/aramshiva">@aramshiva</a>, <a href="https://github.com/N1k0s1">@N1k0s1</a>, and <a href="https://github.com/taciturnaxolotl">@taciturnaxolotl</a> in no particular order lol
 </p>
 
 <p align="center">
