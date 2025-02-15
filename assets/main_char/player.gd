@@ -27,7 +27,8 @@ func _process(delta: float) -> void:
 		$AnimatedSprite2D.stop()
 		$AnimatedSprite2D.frame = 0
 		
-	position += velocity * delta
+	#position += velocity * delta
+	move_and_slide()
 	#position = position.clamp(Vector2.ZERO, screen_size)
 	
 	if Input.is_action_pressed("move_left"):
