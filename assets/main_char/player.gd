@@ -5,9 +5,8 @@ var screen_size
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	screen_size = get_viewport_rect().size
-	#hide()
-
+	#screen_size = get_viewport_rect().size
+	pass
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
@@ -29,7 +28,7 @@ func _process(delta: float) -> void:
 		$AnimatedSprite2D.frame = 0
 		
 	position += velocity * delta
-	position = position.clamp(Vector2.ZERO, screen_size)
+	#position = position.clamp(Vector2.ZERO, screen_size)
 	
 	if Input.is_action_pressed("move_left"):
 		if Input.is_action_pressed("move_up"):
