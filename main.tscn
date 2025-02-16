@@ -5,7 +5,8 @@
 
 [node name="Main" type="Node"]
 
-[node name="Player" parent="." instance=ExtResource("2_e2xee")]
-position = Vector2(669, 392)
-
 [node name="Map" parent="." instance=ExtResource("1_jca35")]
+
+[node name="Player" parent="." instance=ExtResource("2_e2xee")]
+position = Vector2(619, 341)
+speed = 225
